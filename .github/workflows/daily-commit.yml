@@ -1,4 +1,4 @@
-ame: Daily Repository Update
+name: Daily Repository Update
 
 on:
   schedule:
